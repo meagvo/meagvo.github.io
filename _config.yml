@@ -3,3 +3,4 @@ title: Meagan's Homepage
 description: Bookmark this to keep an eye on my project updates!
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
