@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: Meagan's homepage
+title: Meagan's Homepage
 description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-seo-tag
