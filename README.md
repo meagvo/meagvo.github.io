@@ -1,4 +1,4 @@
-## Meagan Voulo
+## Meagan Burkhart
 ### About Me
 I’m a Data Scientist with experience in Tableau, SQL, Python, PowerBI, and other custom BI software. I excel in data visualization and in-depth analyses using both descriptive statistics and predictive models. In addition, I have a strong track record in perfecting statistical analyses for dissertations and Master’s theses using SPSS. As I’ve done this, I’ve grown to love data science and data analytics. I completed a data science certification through Springboard in 2020, where I gained further skills in tools such as Python, R, and SQL. I completed two end-to-end data science capstone projects. 
 
